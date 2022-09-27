@@ -72,3 +72,5 @@ function drawFrequency(frequencyData){
 }
 
 getAudio();
+
+// hotfix fix bug
