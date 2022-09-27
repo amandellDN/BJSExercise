@@ -73,4 +73,3 @@ function drawFrequency(frequencyData){
 
 getAudio();
 
-//adding changes to commit
